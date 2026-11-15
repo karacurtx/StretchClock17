@@ -1,0 +1,9 @@
+Package: com.stretchclock17.tweak
+Name: StretchClock17
+Version: 0.2.0
+Architecture: iphoneos-arm64
+Description: Taller Lock Screen clock on rootless iOS 17.
+Maintainer: StretchClock17
+Author: StretchClock17
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, firmware (>= 17.0), firmware (<< 18.0)
